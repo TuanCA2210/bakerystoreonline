@@ -1,0 +1,3 @@
+{
+"connectionString":"mongodb://admin:123456@ds044787.mlab.com:44787/catbakery"
+}
